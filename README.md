@@ -1,4 +1,4 @@
-### Hi My name is Matheus Magalhães, Welcome to my World!
+### Hi, My name is Matheus Magalhães, Welcome to my World!
 
 <div align="center">
   <a href="https://github.com/matheushasm">
