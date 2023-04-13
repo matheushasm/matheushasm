@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/matheushasm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushasm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+1.   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+2.   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushasm&layout=compact&langs_count=7&theme=dracula"/>
+3. </div>
 
   <div style="display: inline_block"><br>
     <img align="center" alt="MM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
